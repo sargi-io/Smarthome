@@ -1,0 +1,7 @@
+__pycache__/bmr.cpython*
+persist/accessory.state
+smarthome_env
+rooms/__pycache__
+room_ids.txt
+.env
+devices_api/__pycache__
